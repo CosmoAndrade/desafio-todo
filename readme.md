@@ -13,3 +13,6 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *to-dos*).Se
 Tudo isso para cada usuário em específico (o `username` será passado pelo header).
 
 [Clique aqui para saber mais...](https://colorful-mine-d67.notion.site/Desafio-01-Conceitos-do-Node-js-549777deba274e3482c20d0f28395f8f)
+
+ Link das especificações do projeto: https://colorful-mine-d67.notion.site/Desafio-01-Conceitos-do-Node-js-549777deba274e3482c20d0f28395f8f
+ Link do template git: https://github.com/danilobsantos/desafio-conceitos-do-nodejs
